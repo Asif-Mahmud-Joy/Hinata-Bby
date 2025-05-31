@@ -17,8 +17,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Bby",
-    "PREFIX": "/",
+    "PREFIX": "+",
     "ADMINBOT": [
+        "61576947085738",
         "61576947085738"
     ],
     "NDH": [
